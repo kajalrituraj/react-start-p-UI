@@ -11,4 +11,4 @@ const WhatUserSaying = () => {
   );
 };
 
-export default CloudHosting;
+export default WhatUserSaying;
