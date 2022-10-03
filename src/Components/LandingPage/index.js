@@ -16,7 +16,7 @@ const LandingPage = () => {
         m: 0,
         p: 0,
         width: "100%",
-        backgroundColor: "red",
+     
       }}
     >
       {/* import Here Your Sections */}
