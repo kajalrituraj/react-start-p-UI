@@ -41,7 +41,6 @@ const OurAwesomeTeam = () => {
             >
               <Box
                 sx={{
-                 
                   position: "absolute",
                   left: "0",
                   top: "-2.7px",

@@ -8,6 +8,7 @@ import OurAwesomeTeam from "./OurAwesomeTeam/ourAwesomeTeam";
 import PricingPlans from "./PricingPlans/pricingPlans";
 import WhatUserSaying from "./WhatUserSaying/whatUserSaying";
 
+
 const LandingPage = () => {
   return (
     <Box
